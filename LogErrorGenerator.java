@@ -1,4 +1,4 @@
-package test;
+package ErrorLog;
 
 import java.io.IOException;
 import java.nio.file.Files;
